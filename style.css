@@ -9,12 +9,11 @@ body {
     background-position: top;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    opacity:0.3;
     text-align: center;
     scroll-behavior: smooth;
 }
-img:bg.jpg {
-  opacity: 0.5;
+img:bg.jpeg {
+  opacity: 0.2;
 }
 .ok	{
 background: rgba(255, 255, 255, 0.6) s!important;
