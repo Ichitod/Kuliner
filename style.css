@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     line-height: 1.6;
-    background:url("bg.jpeg");
+    background:rgba(255,255,255,0);
     background-size: cover;
     background-position: top;
     background-repeat: no-repeat;
@@ -12,9 +12,7 @@ body {
     text-align: center;
     scroll-behavior: smooth;
 }
-img:bg.jpeg {
-  opacity: 0.2;
-}
+
 .ok	{
 background: rgba(255, 255, 255, 0.6) s!important;
     padding-bottom: 3rem;
